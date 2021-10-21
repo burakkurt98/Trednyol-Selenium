@@ -22,7 +22,7 @@ public class TrendyolTest{
     @Test
     public void firstTest() throws InterruptedException {
 
-        Model model = new Model("burakkurt72@gmail.com" , "Burak123452");
+        Model model = new Model("burakkurt72@gmail.com" , "B2");
         LoginPage loginPage = new LoginPage();
         HomePage homePage = new HomePage();
         SearchPage searchPage = new SearchPage();
